@@ -1,13 +1,15 @@
-# FirstDesktopApp — Game Framework for OOP Course
+ Zombie Shooter is a simple 2D action game developed in C#. In this game, the player controls a character who must survive against waves of zombies by shooting and avoiding attacks. The game focuses on basic game mechanics such as player movement, enemy AI, collision detection, and scoring.
 
-This repository contains a compact 2D game framework designed for teaching OOP concepts in game development. It includes a small game loop, physics and collision systems, and simple entities (Player, Enemy, Bullet, PowerUp).
+ Features
+Player movement (keyboard controls)
+Shooting mechanics
+Enemy (zombie) spawning and movement
+Collision detection
+Score tracking system
+Increasing difficulty over time
+ Technologies Used
+C#
+.NET / Windows Forms (ya jo bhi tum use kar rahe ho)
+ Purpose
 
-## Tasks for Students
-See the tasks and assignment descriptions in `Docs/TASKS-README.md` for graded assignments, acceptance criteria, and suggested files to modify.
-
-## Documentation & PDF
-Lecture notes and documentation are in `Docs/Lecture-FirstDesktopApp.md`. Use `Docs/make-pdf.ps1` to convert it to PDF if you have Pandoc installed.
-
----
-
-Happy teaching! If you want, I can add starter unit tests and PR templates for the Level 1 tasks.
+This project was created to practice programming concepts like object-oriented programming, game logic, and event handling in C#.
